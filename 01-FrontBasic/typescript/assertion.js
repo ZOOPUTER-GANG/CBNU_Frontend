@@ -1,0 +1,13 @@
+var notSure = 4;
+notSure = "maybe a string instead";
+notSure = false;
+console.log("notSure:", notSure);
+var fullName = "eddy";
+var fullNameLength = fullName.length;
+var fullNameLength2 = fullName.length;
+var companyName = "msoftware";
+;
+var user = {};
+user.id = 1;
+user.name = 'eddy';
+console.log('user는', user);
